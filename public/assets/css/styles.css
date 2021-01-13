@@ -1,0 +1,17 @@
+footer {
+    background-color: #353A3f;
+    color: white;
+    /* height: 30px; */
+    width: 100%;
+    position: fixed;
+    bottom: 0%;
+    text-align: center;
+    padding: 15px;
+}
+
+.texto {
+    padding-left: 10%;
+    padding-top: 1%;
+    background-color: beige;
+    height: 100px;
+}
